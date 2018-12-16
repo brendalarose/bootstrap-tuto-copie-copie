@@ -1,0 +1,128 @@
+.border-bottom {
+  border-bottom: 1px solid #dee2e6;
+  box-shadow: 0px 0px 2px 0px;
+}
+
+.police{
+	font-weight: bold;
+}
+
+header .border1{
+	width: 120px;
+	border-radius: 20px;
+	color:white;
+}
+
+section img{
+	width: 85%;
+}
+
+section .para{
+	font-weight: bold;
+	color: blue;
+	font-size: 25px;
+	width: 600px;
+}
+
+section .parag{
+	color: blue;
+	width:600px;
+}
+
+.change{
+	color:blue;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+
+
+.border2{
+	border-radius: 20px;
+	color:white;
+}
+
+.div2{
+	height: 280px;
+	z-index: 0;
+}
+
+.div4 .parag{
+	color: blue;
+	font-size: 15px;
+}
+
+.div3 .border{
+	border-radius: 25px;
+	box-shadow: 10px;
+}
+
+.div3{
+	z-index: 1;
+}
+
+
+.div3 img{
+	width: 70%;
+}
+
+
+.div4 img{
+	width: 70%;
+}
+
+.div5{
+	height: 200px;
+}
+
+.div5 .text{
+	text-align: center;
+	color: white;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.div5 .texte{
+	text-align: center;
+	color: white;
+	font-size: 10px;
+}
+
+.div5 .position: {
+	text-align: center;
+	color: white;
+
+}
+
+.boutton{
+	color: white;
+}
+
+.div6 .para{
+    color: blue;
+    font-size: 25px;
+}
+
+.div6 .parag{
+    color: blue;
+    font-size: 15px;
+}
+
+
+.div6 .paragra{
+    color: blue;
+    font-size: 15px;
+}
+
+.div6 img{
+	width: 70%;
+}
+
+.couleur{
+	color: blue;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+
+
